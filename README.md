@@ -3,7 +3,7 @@
 An end-to-end ML credit default prediction system with SHAP explainability, model comparison, and a live loan applicant scorer.
 
 ## 🔗 Live Demo
-Deploy free on [Streamlit Cloud](https://streamlit.io/cloud).
+[Open the Credit Risk Scorecard](PASTE_YOUR_STREAMLIT_URL_HERE)
 
 ## 🎯 Business Problem
 Banks and lending companies need to assess the likelihood of a borrower defaulting on a loan. This project builds a full credit scoring pipeline — from raw applicant data to an explainable risk decision — mimicking a real-world lending scorecard.
